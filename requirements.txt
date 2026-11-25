@@ -1,0 +1,43 @@
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langgraph
+
+# vector database
+
+qdrant-client
+langchain-qdrant
+fastembed
+rank-bm25
+
+#Web/HTTP requests and production resilience
+httpx
+requests
+tenacity
+orjson
+numpy
+matplotlib
+
+
+
+#Documents, websites, and codebse ingestion
+pypdf
+python-docx
+beautifulsoup4
+lxml
+markdownify
+GitPython
+PyGithub
+tree-sitter
+tree-sitter-language-pack
+
+#Logging and token utilites
+structlog
+rich
+tiktoken
+
+#Testing and code quality
+pytest
+pytest-asyncio
+ruff
